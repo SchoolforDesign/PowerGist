@@ -4,7 +4,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.22609.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GripDev.PowerGist.Addin", "GripDev.PowerGist.Addin\GripDev.PowerGist.Addin.csproj", "{1862DEE2-ECEC-431C-8163-617103207DA5}"
-EndProject
+EndProject 
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{27C00EEB-F44B-4860-89C0-E2DF7B6EAE28}"
 	ProjectSection(SolutionItems) = preProject
 		BuildChocoPackage.ps1 = BuildChocoPackage.ps1
